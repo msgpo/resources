@@ -9,7 +9,7 @@
 	</parent>
 
 	<artifactId>resources</artifactId>
-	<version>1.3-SNAPSHOT</version>
+	<version>1.4-SNAPSHOT</version>
 
 	<name>TMM resources</name>
 	<description>images et all</description>
